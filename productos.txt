@@ -1,0 +1,20 @@
+[
+    {
+      "nombre": "Fernet Branca 1 Lt",
+      "precio": 1.8,
+      "thumbnail": "https://d3ugyf2ht6aenh.cloudfront.net/stores/001/069/568/products/fernet-fernet1-91d5664bb3aba475a316190256095692-1024-1024.jpg",
+      "id": 1
+    },
+    {
+      "nombre": "Johnnie Walker Red Label 750 Ml",
+      "precio": 5.925,
+      "thumbnail": "https://d3ugyf2ht6aenh.cloudfront.net/stores/001/069/568/products/red-label-750-ml1-2cc5c0a70f3e86311016262835929050-1024-1024.jpg",
+      "id": 2
+    },
+    {
+      "nombre": "Portillo Malbec",
+      "precio": 920,
+      "thumbnail": "https://d3ugyf2ht6aenh.cloudfront.net/stores/001/069/568/products/portillo-malbecc1-03c650826290e6aee715949251039734-480-0.jpg",
+      "id": 3
+    }
+  ]
